@@ -111,31 +111,30 @@ pgsql
 Copy
 Edit
 my-project/
-├── taskManagement/
-│   ├── taskManagement.js
-│   └── index.html
-├── shoppingCart/
-│   ├── shoppingCart.js
-│   └── index.html
-└── weatherForecast/
-    ├── weatherForecast.js
-    └── index.html
+|── taskManagement/
+|
+|  |── taskManagement.js
+|   |── index.html
+|   
+|── shoppingCart/
+|
+|  |── shoppingCart.js
+|   |── index.html
+|── weatherForecast/
+|
+|   |── weatherForecast.js
+|   |── index.html
 How to Run the Project
-Clone the Repository (if you have a GitHub repo):
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/my-project.git
-Open in Browser:
+Open in terminal:
 
 Navigate to one of the project folders (taskManagement, shoppingCart, weatherForecast).
 
-Open the index.html file in your browser by double-clicking it.
+Open the index.js file in your teeminal.
 
-The JavaScript functions will be executed in the browser console.
+The JavaScript functions will be executed in the browser console if you change the .js file into .html file.
 
-Viewing Output:
+Viewing Output if use browser:
 
 Open the Developer Tools in your browser (F12 or Ctrl+Shift+I).
 
